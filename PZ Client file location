@@ -5,3 +5,6 @@ Books XP multiplayer is here:
 
 XP Granting to player is here:
 \media\lua\server\XpSystem\XpUpdate.lua (some interesting str/fitness loosing xp)
+
+Videa/Tapes:
+\media\lua\shared\RecordedMedia\recorded_media.lua (not sure what lines means)
