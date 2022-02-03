@@ -7,4 +7,9 @@ XP Granting to player is here:
 \media\lua\server\XpSystem\XpUpdate.lua (some interesting str/fitness loosing xp)
 
 Video/Tapes:
-\media\lua\shared\RecordedMedia\recorded_media.lua (not sure what lines means)
+\media\lua\shared\RecordedMedia\recorded_media.lua 
+\media\lua\client\RadioCom\ISRadioInteractions.lua
+  codes="RCP+1" in lines mean what operation should ISRadioInteractions do (\media\lua\client\RadioCom\ISRadioInteractions.lua)
+  first 3 signs (ex. RCP) means which statistic should change. Fourth sign determines operation (if amount should be added or removed). Fifth sign determines amount of change.
+  I think this is how game "give" xp to player when watching it.
+
