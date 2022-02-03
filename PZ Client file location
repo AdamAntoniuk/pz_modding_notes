@@ -2,3 +2,6 @@ By PZ Client i mean files that are avaiable in \steamapps\common\ProjectZomboid
 
 Books XP multiplayer is here:
 \media\lua\server\XpSystem\XPSystem_SkillBook.lua
+
+XP Granting to player is here:
+\media\lua\server\XpSystem\XpUpdate.lua (some interesting str/fitness loosing xp)
